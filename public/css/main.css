@@ -54,10 +54,11 @@ button {
     display: flex;
 }
 
-.new__store img {
+.new__store  {
     padding: 2px;
     border: 2px solid #c04e72;
     border-radius: 100%;
+    width: 80px !important;
     /* height: 40px; */
 }
 
